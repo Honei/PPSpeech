@@ -1,8 +1,13 @@
-<div align="left"><img src="doc/image/espnet_logo1.png" width="550"/></div>
+# PPSpeech: PaddlePaddle end-to-end speech processing toolkit
 
-# ESPnet: end-to-end speech processing toolkit
+* 作者：xiongxinlei@baidu.com
 
-|system/pytorch ver.|1.3.1|1.4.0|1.5.1|1.6.0|1.7.1|1.8.1|1.9.1|1.10.1|
+基于 PaddlePaddle 的端到端语音处理框架，该框架是基于 ESPnet 创建，训练过程使用 PaddlePaddle。
+这个人项目，更新看我的时间。
+
+所有注释都是用中文，不保证英文。
+
+<!-- |system/pytorch ver.|1.3.1|1.4.0|1.5.1|1.6.0|1.7.1|1.8.1|1.9.1|1.10.1|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |ubuntu20/python3.9/pip||||||||[![Github Actions](https://github.com/espnet/espnet/workflows/CI/badge.svg)](https://github.com/espnet/espnet/actions)|
 |ubuntu20/python3.8/pip||||||||[![Github Actions](https://github.com/espnet/espnet/workflows/CI/badge.svg)](https://github.com/espnet/espnet/actions)|
@@ -738,4 +743,4 @@ The sample rate of the audio must be consistent with that of the data used in tr
   journal={arXiv preprint arXiv:2111.14706},
   year={2021}
 }
-```
+``` -->
